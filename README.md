@@ -16,3 +16,6 @@ A complete end-to-end project that scrapes earthquake records from the PHIVOLCS 
 - 🌐 **Web App** — Deploys insights using a user-friendly interface (Flask or static site)
 
 ---
+Documentation
+# https://docs.google.com/document/d/1ZD4fS4-d-psJC9YgRZ4pPnYWStlekmGaj4SvZ2vw-1s/edit?usp=sharing
+---
