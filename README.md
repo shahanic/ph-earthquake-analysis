@@ -1,2 +1,18 @@
-# ph-earthquake-analysis
-A complete pipeline for collecting, analyzing, and visualizing earthquake data in the Philippines using web scraping, data mining, and machine learning. Includes an interactive web dashboard to display trends and predictive insights.
+# Earthquake Data Philippines 
+
+A complete end-to-end project that scrapes earthquake records from the PHIVOLCS website, performs data cleaning and analysis, applies machine learning techniques, and displays interactive visualizations through a web-based dashboard.
+
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
+
+---
+
+## 📌 Features
+
+- 🔍 **Web Scraping** — Automates extraction of monthly earthquake data from official sources  
+- 📁 **Data Storage** — Saves data as monthly CSV files (`earthquakes_YYYY_MMM.csv`)  
+- 🧹 **Preprocessing** — Cleans and merges multiple CSVs into one dataset  
+- 📊 **Visualization** — Uses Matplotlib, Seaborn, and Folium to display trends and maps  
+- 🤖 **Machine Learning** — Applies classification and clustering algorithms  
+- 🌐 **Web App** — Deploys insights using a user-friendly interface (Flask or static site)
+
+---
